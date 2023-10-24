@@ -1,0 +1,304 @@
+﻿
+tbody {
+    width:100%;
+}
+
+#form input[type="text"] {
+    border: 41px solid #FFFFFF;
+    font-size: 16px;
+    height:30px;
+    padding: 15px;width: 100%;
+}
+
+#form TextBox {
+    border: 51px solid #FFFFFF;
+    font-size: 16px;
+    padding: 5px;
+    width: 100%;
+}
+
+#form input[type="password"] {
+    border: 1px solid #FFFFFF;
+    font-size: 16px;
+    padding: 5px;
+    width: 100%;
+}
+#form input[type="button"] {
+    border: 0px;
+}
+
+.MeBoxPadd {
+    border: 0px solid  ;
+    font-size: 14px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+	margin-bottom: 0px;
+}
+
+.MeBox {
+    border: 1px solid  #CCCCCC;
+    font-size: 14px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 6px;
+    direction: ltr;
+}
+
+.MeBoxDate {
+    border: 1px solid  #CCCCCC;
+    font-size: 14px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 6px;
+	margin-bottom: 0px;
+}
+
+.MeBox:hover {
+    border: 1px solid  #399BFF;
+    font-size: 14px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.MeBox:active {
+    border: 1px solid  #399BFF;
+    font-size: 14px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 6px;
+}
+
+
+.MeForm input[type="button"]
+{
+    border: 1px solid  #CCCCCC;
+    font-size: 14px;
+    padding: 6px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 3px;
+	margin-bottom: 0px;
+}
+
+.MeForm input[type="text"] {
+    border: 1px solid  #CCCCCC;
+    font-size: 14px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 3px;
+	margin-bottom: 0px;
+}
+
+.MeForm input[type="select"] {
+    border: 1px solid  #CCCCCC;
+    font-size: 14px;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 3px;
+	margin-bottom: 0px;
+}
+
+.MeForm input[type="submit"]
+{
+    border: 1px solid  #CCCCCC;
+    font-size: 14px;
+    padding: 6px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    width: 72px;
+}
+
+.styled-select select {
+    background: transparent;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    height: 34px;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    }
+
+.FormHeader
+{ 
+  background-color:#DFF4FF;
+  /*background-color:#f9e4fb;*/
+  padding:6px 6px 6px 6px;
+  font-family: Arial;
+  font-size: 20px;
+  color: #333333;
+}
+
+.FormBody  {
+    margin: 0px;
+    background-color:#DFF4FF;
+    font-size: 14px; 
+    font-family: arial;
+    /*background-color:#f9e4fb;*/
+}
+
+.MeBoxButton {
+    border: 1px solid  #CCCCCC;
+    font-size: 14px;
+    padding: 6px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+.MeBoxButton:hover {
+    border: 1px solid  #399BFF;
+    font-size: 14px;
+    padding: 6px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.MeBoxButton:active {
+    border: 1px solid  #399BFF;
+    font-size: 14px;
+    padding: 6px;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 5px;
+}
+
+
+.img_shake:hover {
+       box-shadow: 0px 0px 15px #666666;
+    /* animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px; */
+
+}
+
+    @keyframes shake {  
+        10%, 90% {    transform: translate3d(-1px, 0, 0); }
+        20%, 80% {    transform: translate3d(2px, 0, 0);  }
+        30%, 50%, 70% {   transform: translate3d(-4px, 0, 0);  }
+        40%, 60% {    transform: translate3d(4px, 0, 0); }
+    }
+
+
+    .GridPager a, .GridPager span
+    {
+        display: block;
+        padding:6px;
+        /*font-weight: bold;*/
+        text-align: center;
+        vertical-align:central ;
+        text-decoration: none;
+    }
+    .GridPager a
+    {
+        background-color: #f5f5f5;
+        color: #969696;
+        border: 1px solid #969696;
+    }
+    .GridPager span
+    {
+        background-color: #A1DCF2;
+        color: #000;
+        border: 1px solid #3AC0F2;
+    }
+
+
+ .blink{
+        animation: blink 3s ease infinite;
+    }
+    @keyframes blink{
+          0%{opacity:0.5;}
+          10%{opacity:1;}
+          50%{opacity:.5;}
+          70%{opacity:.7;}
+          100%{opacity:1;}
+    }
+
+        /* Dropdown Button */
+        .dropbtn {
+          /*background-color: #4CAF50;*/
+          /*background-color: #76c68b;*/
+          background-color: transparent ;
+          color: #333333;
+          padding: 8px;
+          font-size: 14px;
+          border: solid 1px;
+          border-color:#76c68b;
+          width:80px;
+        }
+
+        /* The container <div> - needed to position the dropdown content */
+        .dropdown {
+          position: relative;
+          display: inline-block;
+        }
+
+        /* Dropdown Content (Hidden by Default) */
+        .dropdown-content {
+          display: none;
+          position: absolute;
+          background-color: #f1f1f1;
+          opacity: 0.95;
+          min-width: 160px;
+          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          z-index: 1;
+
+        }
+
+        /* Links inside the dropdown */
+        .dropdown-content a  {
+          color: black;
+          padding: 12px 16px;
+          text-decoration: none;
+          display: block;
+        }
+
+        /* Change color of dropdown links on hover */
+        .dropdown-content a:hover {background-color: #ddd;}
+
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {display: block;}
+
+        /* Change the background color of the dropdown button when the dropdown content is shown */
+        .dropdown:hover .dropbtn {background-color: #f0f0f0;
+                                  opacity: 0.95;
+                                  color:darkblue ;
+        }
+
+.ui-link {
+  font-size: 12pt;
+  font-family: arial;
+  background-color: transparent ;
+  color: black ;
+  border: 1px solid #CCCCCC ;
+  padding: 6px ;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor:pointer;         /* added fro chrome on ios*/
+}
+
+.ui-link a{
+    text-decoration: none;
+}
+.ui-link:active {
+
+}
+
+.ui-link:hover {
+    background-color:#CCCCCC ;
+    color:white ;
+}

@@ -1,0 +1,29 @@
+====================================
+{
+  "Client_No": "",
+  "Total_due": "114,500.000",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "0.0",
+  "Total_Amount": "114500",
+  "Items": [
+    {
+      "INUM": "102",
+      "Date_Of_Supply": "2022-09-08",
+      "ITEM": "Handover for Unit SH02",
+      "PRICE": ".000"
+    },
+    {
+      "INUM": "102",
+      "Date_Of_Supply": "2022-09-08",
+      "ITEM": "Handover for Unit SH02",
+      "PRICE": ".000"
+    },
+    {
+      "INUM": "102",
+      "Date_Of_Supply": "2022-09-08",
+      "ITEM": "Handover for Unit SH02",
+      "PRICE": ".000"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+====================================
+{
+  "Client_No": "020001",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Our_TIN": "200000486700002",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}====================================
+{
+  "Client_No": "",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Our_TIN": "200000486700002",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}====================================
+{
+  "Client_No": "",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Our_TIN": "200000486700002",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}====================================
+{
+  "Client_No": "",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Vat_Percentage": "5%",
+  "Our_TIN": "200000486700002",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}====================================
+{
+  "Client_No": "",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Vat_Percentage": "5",
+  "Our_TIN": "200000486700002",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}====================================
+{
+  "Client_No": "",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Vat_Percentage": "5",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}====================================
+{
+  "Client_No": "",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Vat_Percentage": "5",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}====================================
+{
+  "Client_No": "",
+  "Total_due": "500.00",
+  "Trans_Amount": "0.0",
+  "Discount_Amount": "0.0",
+  "Vat": "50.0",
+  "Total_Amount": "550",
+  "Vat_Percentage": "10",
+  "Items": [
+    {
+      "INVOICE_NUM": "102",
+      "DATE_OF_SUPPLY": "2022-09-08",
+      "DESCRIPTION": "Handover for Unit DO3-0003",
+      "DUE_AMOUNT": "500.000"
+    }
+  ]
+}
